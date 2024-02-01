@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Game Development/Game-Development/Platformer2D/Content/PlayerCharacter/Player_BP.uasset",
 				"C:/Users/cilff/Documents/Unreal Projects/Platformer2D/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"C:/Users/cilff/Documents/Unreal Projects/Platformer2D/Content/Day1_HLOD0_Instancing.uasset",
 				"C:/Users/cilff/Documents/Unreal Projects/Platformer2D/Content/__ExternalActors__/Day1/A/1M/5O8IWBYR0QVS2HRN67HPKL.uasset",
