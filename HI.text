@@ -1,1 +1,2 @@
-hello
+  git config --global user.email "user email"
+  git config --global user.name "username"
