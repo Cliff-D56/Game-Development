@@ -5318,3 +5318,109 @@ UnknownFunction []
 [2024.04.15-22.42.03:689][935]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/2D+PlatformerCoureAssetrs/2D_PlatformerCoureAssetrs/Skeleton/Blueprint/Skeleton_BP.Skeleton_BP
 [2024.04.15-22.42.03:690][935]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PlayerCharacter/2DGameMode.2DGameMode
 [2024.04.15-22.42.03:690][935]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PlayerCharacter/Player_BP.Player_BP
+[2024.04.15-23.02.15:662][170]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.15-23.02.38:525][197]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.15-23.02.38:543][197]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.15-23.02.38:553][198]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.15-23.02.44:641][558]LogContentBrowser: Attempting asset rename: NewFolder -> WidgetBluePrints
+[2024.04.15-23.02.44:739][558]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.15-23.02.55:645][914]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.15-23.02.55:660][914]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.15-23.02.55:718][916]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.15-23.02.59:112][115]LogContentBrowser: Attempting asset rename: NewFolder -> Images
+[2024.04.15-23.02.59:113][115]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.15-23.03.36:212][805]LogTexture: Display: Building textures: /Game/2D+PlatformerCoureAssetrs/2D_PlatformerCoureAssetrs/Healthbar/enemyhealthbarfull.enemyhealthbarfull (BGRA8, 874x264 x1x1x1) (Required Memory Estimate: 6.810608 MB), EncodeSpeed: Fast
+[2024.04.15-23.03.36:216][805]LogTexture: Display: Building textures: /Game/2D+PlatformerCoureAssetrs/2D_PlatformerCoureAssetrs/Healthbar/healthbarempty.healthbarempty (BGRA8, 874x264 x1x1x1) (Required Memory Estimate: 6.810608 MB), EncodeSpeed: Fast
+[2024.04.15-23.03.36:217][805]LogTexture: Display: Building textures: /Game/2D+PlatformerCoureAssetrs/2D_PlatformerCoureAssetrs/Healthbar/heartempty.heartempty (BGRA8, 250x250 x1x1x1) (Required Memory Estimate: 1.890369 MB), EncodeSpeed: Fast
+[2024.04.15-23.03.36:221][805]LogTexture: Display: Building textures: /Game/2D+PlatformerCoureAssetrs/2D_PlatformerCoureAssetrs/Healthbar/heartfull.heartfull (BGRA8, 250x250 x1x1x1) (Required Memory Estimate: 1.890369 MB), EncodeSpeed: Fast
+[2024.04.15-23.04.27:414][  1]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.04.15-23.04.27:435][  1]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.04.15-23.04.27:446][  1]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.04.15-23.04.27:458][  2]LogAutomationController: Ignoring very large delta of 11.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.15-23.04.27:473][  2]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.04.15-23.04.30:518][175]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1690)].
+[2024.04.15-23.04.30:518][175]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Enemy
+[2024.04.15-23.04.30:673][175]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.04.15-23.04.30:719][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.04.15-23.04.30:722][175]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Prototype' took 0.029
+[2024.04.15-23.04.30:777][175]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WidgetBluePrints/Images/enemyhealthbarfull] ([1] browsable assets)...
+[2024.04.15-23.04.30:779][175]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/WidgetBluePrints/Images/enemyhealthbarfull.enemyhealthbarfull]
+[2024.04.15-23.04.30:780][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/WidgetBluePrints/Images/enemyhealthbarfull]
+[2024.04.15-23.04.30:800][175]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WidgetBluePrints/Images/enemyhealthbarfull_Auto6
+[2024.04.15-23.04.30:800][175]LogSavePackage: Moving '../../../../../Game Development/Game-Development/Platformer2D/Saved/enemyhealthbarfull_Auto6141E704743439433713F829D1920E45E.tmp' to '../../../../../Game Development/Game-Development/Platformer2D/Saved/Autosaves/Game/WidgetBluePrints/Images/enemyhealthbarfull_Auto6.uasset'
+[2024.04.15-23.04.30:801][175]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WidgetBluePrints/Images/healthbarempty] ([1] browsable assets)...
+[2024.04.15-23.04.30:804][175]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/WidgetBluePrints/Images/healthbarempty.healthbarempty]
+[2024.04.15-23.04.30:804][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/WidgetBluePrints/Images/healthbarempty]
+[2024.04.15-23.04.30:809][175]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WidgetBluePrints/Images/healthbarempty_Auto6
+[2024.04.15-23.04.30:809][175]LogSavePackage: Moving '../../../../../Game Development/Game-Development/Platformer2D/Saved/healthbarempty_Auto6782B94304FCC89E439C0C19E95FC5584.tmp' to '../../../../../Game Development/Game-Development/Platformer2D/Saved/Autosaves/Game/WidgetBluePrints/Images/healthbarempty_Auto6.uasset'
+[2024.04.15-23.04.30:810][175]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WidgetBluePrints/Images/heartempty] ([1] browsable assets)...
+[2024.04.15-23.04.30:815][175]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/WidgetBluePrints/Images/heartempty.heartempty]
+[2024.04.15-23.04.30:815][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/WidgetBluePrints/Images/heartempty]
+[2024.04.15-23.04.30:841][175]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WidgetBluePrints/Images/heartempty_Auto6
+[2024.04.15-23.04.30:841][175]LogSavePackage: Moving '../../../../../Game Development/Game-Development/Platformer2D/Saved/heartempty_Auto6A024816446D1C627BF3ACE9405D3A1FB.tmp' to '../../../../../Game Development/Game-Development/Platformer2D/Saved/Autosaves/Game/WidgetBluePrints/Images/heartempty_Auto6.uasset'
+[2024.04.15-23.04.30:844][175]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WidgetBluePrints/Images/heartfull] ([1] browsable assets)...
+[2024.04.15-23.04.30:847][175]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/WidgetBluePrints/Images/heartfull.heartfull]
+[2024.04.15-23.04.30:848][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/WidgetBluePrints/Images/heartfull]
+[2024.04.15-23.04.30:873][175]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WidgetBluePrints/Images/heartfull_Auto6
+[2024.04.15-23.04.30:873][175]LogSavePackage: Moving '../../../../../Game Development/Game-Development/Platformer2D/Saved/heartfull_Auto6077DA8E8421D96EEEA497FA052B5B2EC.tmp' to '../../../../../Game Development/Game-Development/Platformer2D/Saved/Autosaves/Game/WidgetBluePrints/Images/heartfull_Auto6.uasset'
+[2024.04.15-23.04.30:874][175]LogFileHelpers: Auto-saving content packages took 0.152
+[2024.04.15-23.04.42:051][837]LogContentBrowser: Attempting asset rename: Enemy -> EnemyHealthbar_WB
+[2024.04.15-23.04.42:127][837]LogMetaData: Removing '/Game/WidgetBluePrints/EnemyHealthbar_WB.SKEL_EnemyHealthbar_WB_C' ref from Metadata '/Game/WidgetBluePrints/Enemy.PackageMetaData'
+[2024.04.15-23.04.42:127][837]LogMetaData: Removing '/Game/WidgetBluePrints/EnemyHealthbar_WB.EnemyHealthbar_WB_C' ref from Metadata '/Game/WidgetBluePrints/Enemy.PackageMetaData'
+[2024.04.15-23.04.42:127][837]LogMetaData: Removing '/Game/WidgetBluePrints/EnemyHealthbar_WB.EnemyHealthbar_WB:EventGraph.K2Node_Event_0' ref from Metadata '/Game/WidgetBluePrints/Enemy.PackageMetaData'
+[2024.04.15-23.04.42:127][837]LogMetaData: Removing '/Game/WidgetBluePrints/EnemyHealthbar_WB.EnemyHealthbar_WB:EventGraph.K2Node_Event_1' ref from Metadata '/Game/WidgetBluePrints/Enemy.PackageMetaData'
+[2024.04.15-23.04.42:127][837]LogMetaData: Removing '/Game/WidgetBluePrints/EnemyHealthbar_WB.EnemyHealthbar_WB:EventGraph.K2Node_Event_2' ref from Metadata '/Game/WidgetBluePrints/Enemy.PackageMetaData'
+[2024.04.15-23.04.42:128][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-23.04.42:225][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBluePrints/EnemyHealthbar_WB" FILE="../../../../../Game Development/Game-Development/Platformer2D/Content/WidgetBluePrints/EnemyHealthbar_WB.uasset" SILENT=true
+[2024.04.15-23.04.42:232][837]LogSavePackage: Moving output files for package: /Game/WidgetBluePrints/EnemyHealthbar_WB
+[2024.04.15-23.04.42:232][837]LogSavePackage: Moving '../../../../../Game Development/Game-Development/Platformer2D/Saved/EnemyHealthbar_WB67AF4FD24178D00C680A998EFF3FCE90.tmp' to '../../../../../Game Development/Game-Development/Platformer2D/Content/WidgetBluePrints/EnemyHealthbar_WB.uasset'
+[2024.04.15-23.04.42:252][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 2.26 sec)
+[2024.04.15-23.04.42:282][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.04.15-23.04.42:300][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.04.15-23.04.42:319][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.04.15-23.04.42:321][837]AssetCheck: New page: Asset Save: EnemyHealthbar_WB
+[2024.04.15-23.04.42:321][837]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WidgetBluePrints/EnemyHealthbar_WB.EnemyHealthbar_WB
+[2024.04.15-23.04.44:646][972]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WidgetBluePrints/EnemyHealthbar_WB.EnemyHealthbar_WB
+[2024.04.15-23.04.44:646][972]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-23.04.44:646][972]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-23.04.44:655][972]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-23.04.44:655][972]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-23.04.44:663][972]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.04.15-23.04.46:236][972]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.04.15-23.09.14:551][497]BlueprintLog: New page: Compile EnemyHealthbar_WB
+[2024.04.15-23.09.18:653][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.04.15-23.09.19:041][498]LogAutomationController: Ignoring very large delta of 4.81 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.15-23.09.21:511][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.04.15-23.09.21:517][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-23.09.21:619][604]LogSavePackage: Moving output files for package: /Game/WidgetBluePrints/Images/enemyhealthbarfull
+[2024.04.15-23.09.21:619][604]LogSavePackage: Moving '../../../../../Game Development/Game-Development/Platformer2D/Saved/enemyhealthbarfull3E7C5A5941AF2DCC8274C6B308A93CDC.tmp' to '../../../../../Game Development/Game-Development/Platformer2D/Content/WidgetBluePrints/Images/enemyhealthbarfull.uasset'
+[2024.04.15-23.09.21:646][604]LogSavePackage: Moving output files for package: /Game/WidgetBluePrints/Images/healthbarempty
+[2024.04.15-23.09.21:646][604]LogSavePackage: Moving '../../../../../Game Development/Game-Development/Platformer2D/Saved/healthbarempty2EE3150B45D8AC548E785CBE23587648.tmp' to '../../../../../Game Development/Game-Development/Platformer2D/Content/WidgetBluePrints/Images/healthbarempty.uasset'
+[2024.04.15-23.09.21:648][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBluePrints/Images/heartempty" FILE="../../../../../Game Development/Game-Development/Platformer2D/Content/WidgetBluePrints/Images/heartempty.uasset" SILENT=true
+[2024.04.15-23.09.21:666][604]LogSavePackage: Moving output files for package: /Game/WidgetBluePrints/Images/heartempty
+[2024.04.15-23.09.21:666][604]LogSavePackage: Moving '../../../../../Game Development/Game-Development/Platformer2D/Saved/heartempty114C5F2848C2B0724C5E82AFE78E2630.tmp' to '../../../../../Game Development/Game-Development/Platformer2D/Content/WidgetBluePrints/Images/heartempty.uasset'
+[2024.04.15-23.09.21:667][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBluePrints/Images/heartfull" FILE="../../../../../Game Development/Game-Development/Platformer2D/Content/WidgetBluePrints/Images/heartfull.uasset" SILENT=true
+[2024.04.15-23.09.21:690][604]LogSavePackage: Moving output files for package: /Game/WidgetBluePrints/Images/heartfull
+[2024.04.15-23.09.21:690][604]LogSavePackage: Moving '../../../../../Game Development/Game-Development/Platformer2D/Saved/heartfull609A46624DC8B79EA201E2B480804D5E.tmp' to '../../../../../Game Development/Game-Development/Platformer2D/Content/WidgetBluePrints/Images/heartfull.uasset'
+[2024.04.15-23.09.21:696][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBluePrints/EnemyHealthbar_WB" FILE="../../../../../Game Development/Game-Development/Platformer2D/Content/WidgetBluePrints/EnemyHealthbar_WB.uasset" SILENT=true
+[2024.04.15-23.09.21:736][604]LogSavePackage: Moving output files for package: /Game/WidgetBluePrints/EnemyHealthbar_WB
+[2024.04.15-23.09.21:737][604]LogSavePackage: Moving '../../../../../Game Development/Game-Development/Platformer2D/Saved/EnemyHealthbar_WB6181C26746D0206C4486668D65294D90.tmp' to '../../../../../Game Development/Game-Development/Platformer2D/Content/WidgetBluePrints/EnemyHealthbar_WB.uasset'
+[2024.04.15-23.09.21:756][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 238 ms (total: 2.50 sec)
+[2024.04.15-23.09.21:761][604]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.15-23.09.21:761][604]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/WidgetBluePrints/Images/enemyhealthbarfull.enemyhealthbarfull
+[2024.04.15-23.09.21:761][604]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/WidgetBluePrints/Images/healthbarempty.healthbarempty
+[2024.04.15-23.09.21:761][604]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/WidgetBluePrints/Images/heartempty.heartempty
+[2024.04.15-23.09.21:761][604]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/WidgetBluePrints/Images/heartfull.heartfull
+[2024.04.15-23.09.21:761][604]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WidgetBluePrints/EnemyHealthbar_WB.EnemyHealthbar_WB
