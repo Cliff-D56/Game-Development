@@ -5424,3 +5424,373 @@ UnknownFunction []
 [2024.04.15-23.09.21:761][604]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/WidgetBluePrints/Images/heartempty.heartempty
 [2024.04.15-23.09.21:761][604]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/WidgetBluePrints/Images/heartfull.heartfull
 [2024.04.15-23.09.21:761][604]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WidgetBluePrints/EnemyHealthbar_WB.EnemyHealthbar_WB
+[2024.04.15-23.17.28:872][128]LogDerivedDataCache: C:/Users/13462/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.083 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 403 files in 718 folders with total size 1 MiB.
+[2024.04.15-23.56.21:705][122]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.04.15-23.56.21:715][122]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17152
+[2024.04.15-23.56.22:051][123]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a0611952-7623-4d4a-97fd-4ae421ee6283}, Name=Speakers (USB Audio Device)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=26.01
+[2024.04.15-23.56.22:051][123]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.15-23.56.22:052][123]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.15-23.56.27:367][126]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.04.16-00.54.39:513][126]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17152
+[2024.04.16-00.54.39:562][127]LogAutomationController: Ignoring very large delta of 3496.86 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.16-00.54.39:930][127]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a0611952-7623-4d4a-97fd-4ae421ee6283}, Name=Speakers (USB Audio Device)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=84.96
+[2024.04.16-00.54.39:931][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.16-00.54.40:020][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.16-00.55.55:589][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-00.55.55:679][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBluePrints/EnemyHealthbar_WB" FILE="../../../../../Game Development/Game-Development/Platformer2D/Content/WidgetBluePrints/EnemyHealthbar_WB.uasset" SILENT=true
+[2024.04.16-00.55.55:687][684]LogSavePackage: Moving output files for package: /Game/WidgetBluePrints/EnemyHealthbar_WB
+[2024.04.16-00.55.55:689][684]LogSavePackage: Moving '../../../../../Game Development/Game-Development/Platformer2D/Saved/EnemyHealthbar_WB8F581E244A7DECFCBBE2FBA01731DD7F.tmp' to '../../../../../Game Development/Game-Development/Platformer2D/Content/WidgetBluePrints/EnemyHealthbar_WB.uasset'
+[2024.04.16-00.55.55:708][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 2.62 sec)
+[2024.04.16-00.55.55:710][684]AssetCheck: New page: Asset Save: EnemyHealthbar_WB
+[2024.04.16-00.55.55:710][684]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WidgetBluePrints/EnemyHealthbar_WB.EnemyHealthbar_WB
+[2024.04.16-00.55.56:598][722]LogSlate: Window 'EnemyHealthbar_WB' being destroyed
+[2024.04.16-00.55.56:938][722]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-00.55.56:938][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-00.55.56:956][722]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-00.55.56:956][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-00.57.03:255][138]BlueprintLog: New page: Compile Skeleton_BP
+[2024.04.16-00.57.03:333][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.04.16-00.57.10:440][530]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WidgetBluePrints/EnemyHealthbar_WB.EnemyHealthbar_WB
+[2024.04.16-00.57.10:441][530]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-00.57.10:441][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-00.57.10:451][530]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-00.57.10:451][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-00.59.00:982][479]BlueprintLog: New page: Compile EnemyHealthbar_WB
+[2024.04.16-00.59.01:017][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.04.16-01.00.05:619][655]BlueprintLog: New page: Compile EnemyHealthbar_WB
+[2024.04.16-01.00.05:754][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.16-01.02.30:616][246]LogAutomationController: Ignoring very large delta of 4.05 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.16-01.02.47:977][ 85]BlueprintLog: New page: Compile EnemyHealthbar_WB
+[2024.04.16-01.02.48:025][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.04.16-01.02.51:709][294]LogSlate: Window 'EnemyHealthbar_WB' being destroyed
+[2024.04.16-01.03.57:673][107]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:674][107]LogPhysics: Warning: Scale for /Game/Levels/Prototype.Prototype:PersistentLevel.Skeleton_BP_C_1.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:675][107]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:690][108]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:704][109]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:719][110]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:736][111]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:749][112]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:762][113]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:775][114]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:787][115]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:799][116]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:812][117]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:824][118]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:837][119]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:849][120]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:862][121]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:875][122]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:888][123]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:900][124]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:914][125]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:927][126]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:941][127]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:953][128]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:966][129]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:981][130]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.57:996][131]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.16-01.03.59:819][273]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.03.59:820][273]LogPhysics: Warning: Scale for /Game/Levels/Prototype.Prototype:PersistentLevel.Skeleton_BP_C_1.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.03.59:821][273]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.03.59:836][274]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.03.59:848][275]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.03.59:861][276]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.03.59:875][277]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.03.59:888][278]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.03.59:903][279]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.03.59:915][280]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.03.59:929][281]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.03.59:942][282]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.03.59:954][283]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.03.59:967][284]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.03.59:981][285]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.03.59:994][286]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:007][287]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:021][288]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:036][289]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:049][290]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:062][291]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:075][292]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:089][293]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:104][294]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:118][295]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:131][296]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:144][297]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:158][298]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:172][299]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:184][300]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:197][301]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:211][302]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:223][303]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:235][304]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:250][305]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:263][306]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.04.00:277][307]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.Skeleton_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.500
+[2024.04.16-01.05.38:143][250]BlueprintLog: New page: Compile Skeleton_BP
+[2024.04.16-01.05.38:235][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.04.16-01.05.39:166][293]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-01.05.39:190][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-01.05.39:190][293]PIE: New page: PIE session: Prototype (Apr 15, 2024, 3:05:39 PM)
+[2024.04.16-01.05.39:191][293]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Prototype
+[2024.04.16-01.05.39:198][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007333s)
+[2024.04.16-01.05.39:198][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Prototype.Prototype to /Game/Levels/UEDPIE_0_Prototype.Prototype (0.007403s)
+[2024.04.16-01.05.39:223][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.04.16-01.05.39:226][293]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-01.05.39:227][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-01.05.39:227][293]LogAIModule: Creating AISystem for world Prototype
+[2024.04.16-01.05.39:228][293]LogPlayLevel: PIE: World Init took: (0.002381s)
+[2024.04.16-01.05.39:228][293]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2024.04.16-01.05.39:229][293]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-01.05.39:229][293]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-01.05.39:229][293]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-01.05.39:229][293]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-01.05.39:229][293]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-01.05.39:229][293]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-01.05.39:229][293]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-01.05.39:229][293]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-01.05.39:230][293]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-01.05.39:230][293]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-01.05.39:230][293]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-01.05.39:233][293]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-01.05.39:271][293]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2024.04.16-01.05.39:271][293]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-01.05.39:271][293]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-01.05.39:271][293]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-01.05.39:272][293]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2024.04.16-01.05.39:273][293]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2024.04.16-01.05.39:275][293]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2024.04.16-01.05.39:275][293]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2024.04.16-01.05.39:275][293]LogInit: FAudioDevice initialized with ID 55.
+[2024.04.16-01.05.39:275][293]LogAudio: Display: Audio Device (ID: 55) registered with world 'Prototype'.
+[2024.04.16-01.05.39:275][293]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2024.04.16-01.05.39:357][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-01.05.39:358][293]LogLoad: Game class is '2DGameMode_C'
+[2024.04.16-01.05.39:361][293]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2024.04.15-20.05.39
+[2024.04.16-01.05.39:362][293]LogWorld: Bringing up level for play took: 0.003257
+[2024.04.16-01.05.39:366][293]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2024.04.16-01.05.39:388][293]PIE: Server logged in
+[2024.04.16-01.05.39:395][293]PIE: Play in editor total start time 0.206 seconds.
+[2024.04.16-01.05.39:413][293]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.04.16-01.05.41:130][384]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.16-01.05.42:080][449]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.16-01.05.43:869][569]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.16-01.05.45:632][685]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.16-01.05.46:566][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-01.05.46:566][744]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Prototype
+[2024.04.16-01.05.46:567][744]LogSlate: Window 'Platformer2D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-01.05.46:577][744]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-01.05.46:577][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-01.05.46:696][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-01.05.46:703][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-01.05.46:728][744]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-01.05.46:729][744]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2024.04.16-01.05.46:729][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.04.16-01.05.46:731][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.04.16-01.05.46:739][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.16-01.05.47:056][745]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2024.04.16-01.06.30:604][288]BlueprintLog: New page: Compile EnemyHealthbar_WB
+[2024.04.16-01.06.30:664][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.16-01.06.35:307][628]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-01.06.35:321][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-01.06.35:321][628]PIE: New page: PIE session: Prototype (Apr 15, 2024, 3:06:35 PM)
+[2024.04.16-01.06.35:321][628]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Prototype
+[2024.04.16-01.06.35:325][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003022s)
+[2024.04.16-01.06.35:325][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Prototype.Prototype to /Game/Levels/UEDPIE_0_Prototype.Prototype (0.003064s)
+[2024.04.16-01.06.35:343][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.04.16-01.06.35:345][628]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-01.06.35:345][628]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-01.06.35:345][628]LogAIModule: Creating AISystem for world Prototype
+[2024.04.16-01.06.35:346][628]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2024.04.16-01.06.35:346][628]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2024.04.16-01.06.35:346][628]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-01.06.35:346][628]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-01.06.35:346][628]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-01.06.35:346][628]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-01.06.35:346][628]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-01.06.35:346][628]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-01.06.35:346][628]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-01.06.35:346][628]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-01.06.35:346][628]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-01.06.35:346][628]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-01.06.35:346][628]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-01.06.35:348][628]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-01.06.35:375][628]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2024.04.16-01.06.35:375][628]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-01.06.35:375][628]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-01.06.35:375][628]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-01.06.35:375][628]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2024.04.16-01.06.35:376][628]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2024.04.16-01.06.35:378][628]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2024.04.16-01.06.35:378][628]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2024.04.16-01.06.35:378][628]LogInit: FAudioDevice initialized with ID 56.
+[2024.04.16-01.06.35:378][628]LogAudio: Display: Audio Device (ID: 56) registered with world 'Prototype'.
+[2024.04.16-01.06.35:378][628]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2024.04.16-01.06.35:389][628]LogLoad: Game class is '2DGameMode_C'
+[2024.04.16-01.06.35:390][628]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2024.04.15-20.06.35
+[2024.04.16-01.06.35:390][628]LogWorld: Bringing up level for play took: 0.000905
+[2024.04.16-01.06.35:392][628]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2024.04.16-01.06.35:395][628]PIE: Server logged in
+[2024.04.16-01.06.35:395][628]PIE: Play in editor total start time 0.074 seconds.
+[2024.04.16-01.06.38:406][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-01.06.38:406][879]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Prototype
+[2024.04.16-01.06.38:406][879]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-01.06.38:406][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-01.06.38:412][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-01.06.38:415][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-01.06.38:431][879]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-01.06.38:431][879]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2024.04.16-01.06.38:431][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2024.04.16-01.06.38:433][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2024.04.16-01.06.38:438][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-01.06.38:439][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.16-01.06.38:532][880]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2024.04.16-01.06.48:053][949]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-01.06.48:067][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-01.06.48:067][949]PIE: New page: PIE session: Prototype (Apr 15, 2024, 3:06:48 PM)
+[2024.04.16-01.06.48:068][949]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Prototype
+[2024.04.16-01.06.48:070][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002478s)
+[2024.04.16-01.06.48:070][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Prototype.Prototype to /Game/Levels/UEDPIE_0_Prototype.Prototype (0.002521s)
+[2024.04.16-01.06.48:095][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.04.16-01.06.48:097][949]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-01.06.48:097][949]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-01.06.48:097][949]LogAIModule: Creating AISystem for world Prototype
+[2024.04.16-01.06.48:098][949]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2024.04.16-01.06.48:098][949]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2024.04.16-01.06.48:098][949]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-01.06.48:098][949]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-01.06.48:098][949]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-01.06.48:098][949]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-01.06.48:098][949]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-01.06.48:098][949]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-01.06.48:098][949]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-01.06.48:098][949]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-01.06.48:099][949]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-01.06.48:099][949]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-01.06.48:099][949]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-01.06.48:100][949]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-01.06.48:128][949]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2024.04.16-01.06.48:128][949]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-01.06.48:128][949]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-01.06.48:128][949]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-01.06.48:129][949]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2024.04.16-01.06.48:129][949]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2024.04.16-01.06.48:131][949]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2024.04.16-01.06.48:131][949]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2024.04.16-01.06.48:131][949]LogInit: FAudioDevice initialized with ID 57.
+[2024.04.16-01.06.48:131][949]LogAudio: Display: Audio Device (ID: 57) registered with world 'Prototype'.
+[2024.04.16-01.06.48:131][949]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2024.04.16-01.06.48:133][949]LogLoad: Game class is '2DGameMode_C'
+[2024.04.16-01.06.48:135][949]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2024.04.15-20.06.48
+[2024.04.16-01.06.48:135][949]LogWorld: Bringing up level for play took: 0.000854
+[2024.04.16-01.06.48:137][949]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2024.04.16-01.06.48:139][949]PIE: Server logged in
+[2024.04.16-01.06.48:140][949]PIE: Play in editor total start time 0.073 seconds.
+[2024.04.16-01.06.51:156][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-01.06.51:156][151]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Prototype
+[2024.04.16-01.06.51:156][151]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-01.06.51:156][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-01.06.51:163][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-01.06.51:168][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-01.06.51:185][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-01.06.51:185][151]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2024.04.16-01.06.51:185][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2024.04.16-01.06.51:187][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2024.04.16-01.06.51:196][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.16-01.06.51:286][152]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2024.04.16-01.09.58:059][132]LogAutomationController: Ignoring very large delta of 3.79 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.16-01.10.30:356][ 47]BlueprintLog: New page: Compile Skeleton_BP
+[2024.04.16-01.10.30:425][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.16-01.10.34:795][313]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-01.10.34:809][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-01.10.34:809][313]PIE: New page: PIE session: Prototype (Apr 15, 2024, 3:10:34 PM)
+[2024.04.16-01.10.34:809][313]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Prototype
+[2024.04.16-01.10.34:814][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003953s)
+[2024.04.16-01.10.34:814][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Prototype.Prototype to /Game/Levels/UEDPIE_0_Prototype.Prototype (0.004050s)
+[2024.04.16-01.10.34:837][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.16-01.10.34:839][313]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-01.10.34:839][313]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-01.10.34:840][313]LogAIModule: Creating AISystem for world Prototype
+[2024.04.16-01.10.34:840][313]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2024.04.16-01.10.34:840][313]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2024.04.16-01.10.34:840][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-01.10.34:840][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-01.10.34:840][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-01.10.34:840][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-01.10.34:840][313]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-01.10.34:840][313]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-01.10.34:840][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-01.10.34:840][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-01.10.34:841][313]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-01.10.34:841][313]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-01.10.34:841][313]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-01.10.34:844][313]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-01.10.34:871][313]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2024.04.16-01.10.34:871][313]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-01.10.34:871][313]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-01.10.34:871][313]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-01.10.34:872][313]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2024.04.16-01.10.34:872][313]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2024.04.16-01.10.34:875][313]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2024.04.16-01.10.34:875][313]LogInit: FAudioDevice initialized with ID 58.
+[2024.04.16-01.10.34:875][313]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2024.04.16-01.10.34:875][313]LogAudio: Display: Audio Device (ID: 58) registered with world 'Prototype'.
+[2024.04.16-01.10.34:875][313]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2024.04.16-01.10.34:878][313]LogLoad: Game class is '2DGameMode_C'
+[2024.04.16-01.10.34:879][313]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2024.04.15-20.10.34
+[2024.04.16-01.10.34:879][313]LogWorld: Bringing up level for play took: 0.001081
+[2024.04.16-01.10.34:882][313]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2024.04.16-01.10.34:884][313]PIE: Server logged in
+[2024.04.16-01.10.34:884][313]PIE: Play in editor total start time 0.075 seconds.
+[2024.04.16-01.10.37:048][475]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.16-01.10.38:313][584]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.16-01.10.39:952][710]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.16-01.10.41:082][805]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.16-01.10.41:840][860]LogBlueprintUserMessages: [Player_BP_C_0] 2
+[2024.04.16-01.10.43:109][968]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.16-01.10.48:945][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-01.10.48:945][455]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Prototype
+[2024.04.16-01.10.48:946][455]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-01.10.48:946][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-01.10.49:085][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-01.10.49:090][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-01.10.49:114][455]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-01.10.49:114][455]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2024.04.16-01.10.49:114][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2024.04.16-01.10.49:116][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2024.04.16-01.10.49:121][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-01.10.49:124][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.04.16-01.10.49:237][456]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2024.04.16-01.11.21:695][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.04.16-01.11.21:713][836]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Prototype_Auto7
+[2024.04.16-01.11.21:714][836]LogSavePackage: Moving '../../../../../Game Development/Game-Development/Platformer2D/Saved/Prototype_Auto762DABBB04221B2004A8F9BA03BEDB1CA.tmp' to '../../../../../Game Development/Game-Development/Platformer2D/Saved/Autosaves/Game/Levels/Prototype_Auto7.umap'
+[2024.04.16-01.11.22:092][836]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../Game Development/Game-Development/Platformer2D/Saved/Autosaves/Game/Levels/Prototype_Auto7.umap is in the /Temp path, will not scan.
+[2024.04.16-01.11.22:092][836]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Prototype' took 0.418
+[2024.04.16-01.11.22:092][836]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.418
+[2024.04.16-01.11.22:092][836]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2D+PlatformerCoureAssetrs/2D_PlatformerCoureAssetrs/Skeleton/Blueprint/Skeleton_BP] ([2] browsable assets)...
+[2024.04.16-01.11.22:093][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/2D+PlatformerCoureAssetrs/2D_PlatformerCoureAssetrs/Skeleton/Blueprint/Skeleton_BP]
+[2024.04.16-01.11.22:188][836]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/2D+PlatformerCoureAssetrs/2D_PlatformerCoureAssetrs/Skeleton/Blueprint/Skeleton_BP_Auto7
+[2024.04.16-01.11.22:188][836]LogSavePackage: Moving '../../../../../Game Development/Game-Development/Platformer2D/Saved/Skeleton_BP_Auto7325B905646D91FCEED4471A2D42E35A9.tmp' to '../../../../../Game Development/Game-Development/Platformer2D/Saved/Autosaves/Game/2D+PlatformerCoureAssetrs/2D_PlatformerCoureAssetrs/Skeleton/Blueprint/Skeleton_BP_Auto7.uasset'
+[2024.04.16-01.11.22:189][836]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WidgetBluePrints/EnemyHealthbar_WB] ([2] browsable assets)...
+[2024.04.16-01.11.22:196][836]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WidgetBluePrints/EnemyHealthbar_WB.EnemyHealthbar_WB]
+[2024.04.16-01.11.22:196][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/WidgetBluePrints/EnemyHealthbar_WB]
+[2024.04.16-01.11.22:205][836]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WidgetBluePrints/EnemyHealthbar_WB_Auto7
+[2024.04.16-01.11.22:205][836]LogSavePackage: Moving '../../../../../Game Development/Game-Development/Platformer2D/Saved/EnemyHealthbar_WB_Auto7842CAA614D6E080FD5852290079E16E3.tmp' to '../../../../../Game Development/Game-Development/Platformer2D/Saved/Autosaves/Game/WidgetBluePrints/EnemyHealthbar_WB_Auto7.uasset'
+[2024.04.16-01.11.22:206][836]LogFileHelpers: Auto-saving content packages took 0.114
+[2024.04.16-01.11.33:127][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.04.16-01.11.33:133][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-01.11.33:237][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Prototype" FILE="../../../../../Game Development/Game-Development/Platformer2D/Content/Levels/Prototype.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.16-01.11.33:320][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.16-01.11.33:336][637]LogSavePackage: Moving output files for package: /Game/Levels/Prototype
+[2024.04.16-01.11.33:337][637]LogSavePackage: Moving '../../../../../Game Development/Game-Development/Platformer2D/Saved/Prototype0611C635403911292AFF44ADB4176924.tmp' to '../../../../../Game Development/Game-Development/Platformer2D/Content/Levels/Prototype.umap'
+[2024.04.16-01.11.33:352][637]LogFileHelpers: Saving map 'Prototype' took 0.115
+[2024.04.16-01.11.33:423][637]LogSavePackage: Moving output files for package: /Game/2D+PlatformerCoureAssetrs/2D_PlatformerCoureAssetrs/Skeleton/Blueprint/Skeleton_BP
+[2024.04.16-01.11.33:424][637]LogSavePackage: Moving '../../../../../Game Development/Game-Development/Platformer2D/Saved/Skeleton_BP8F90AB014DDE5212C57B07890BB7759C.tmp' to '../../../../../Game Development/Game-Development/Platformer2D/Content/2D+PlatformerCoureAssetrs/2D_PlatformerCoureAssetrs/Skeleton/Blueprint/Skeleton_BP.uasset'
+[2024.04.16-01.11.33:427][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBluePrints/EnemyHealthbar_WB" FILE="../../../../../Game Development/Game-Development/Platformer2D/Content/WidgetBluePrints/EnemyHealthbar_WB.uasset" SILENT=true
+[2024.04.16-01.11.33:463][637]LogSavePackage: Moving output files for package: /Game/WidgetBluePrints/EnemyHealthbar_WB
+[2024.04.16-01.11.33:464][637]LogSavePackage: Moving '../../../../../Game Development/Game-Development/Platformer2D/Saved/EnemyHealthbar_WB607CE85C4BAEDE8C989EA097BFFB8062.tmp' to '../../../../../Game Development/Game-Development/Platformer2D/Content/WidgetBluePrints/EnemyHealthbar_WB.uasset'
+[2024.04.16-01.11.33:478][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 344 ms (total: 2.97 sec)
+[2024.04.16-01.11.33:481][637]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.16-01.11.33:482][637]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Prototype.Prototype
+[2024.04.16-01.11.33:482][637]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/2D+PlatformerCoureAssetrs/2D_PlatformerCoureAssetrs/Skeleton/Blueprint/Skeleton_BP.Skeleton_BP
+[2024.04.16-01.11.33:482][637]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WidgetBluePrints/EnemyHealthbar_WB.EnemyHealthbar_WB
