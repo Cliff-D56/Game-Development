@@ -1795,3 +1795,163 @@ UnknownFunction []
 [2024.04.20-20.20.06:986][339]AssetCheck: New page: Asset Save: multiple assets
 [2024.04.20-20.20.06:986][339]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PlayerCharacter/Player_BP.Player_BP
 [2024.04.20-20.20.06:986][339]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WidgetBluePrints/PlayerHeart_WB.PlayerHeart_WB
+[2024.04.20-20.25.39:122][261]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WidgetBluePrints/Heart_WB.Heart_WB
+[2024.04.20-20.25.39:122][261]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.20-20.25.39:122][261]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.20-20.25.39:135][261]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.20-20.25.39:135][261]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.20-20.27.10:696][553]BlueprintLog: New page: Compile Heart_WB
+[2024.04.20-20.27.10:721][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.04.20-20.31.22:599][ 84]BlueprintLog: New page: Compile Heart_WB
+[2024.04.20-20.31.22:637][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.04.20-20.36.29:227][889]BlueprintLog: New page: Compile PlayerHeart_WB
+[2024.04.20-20.36.29:266][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.20-20.36.54:933][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.04.20-20.36.54:938][877]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Prototype' took 0.025
+[2024.04.20-20.36.54:938][877]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WidgetBluePrints/Heart_WB] ([2] browsable assets)...
+[2024.04.20-20.36.54:941][877]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WidgetBluePrints/Heart_WB.Heart_WB]
+[2024.04.20-20.36.54:941][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/WidgetBluePrints/Heart_WB]
+[2024.04.20-20.36.54:946][877]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WidgetBluePrints/Heart_WB_Auto3
+[2024.04.20-20.36.54:946][877]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/Heart_WB_Auto3F290B0F04BFED00E47876E988A7BE7C6.tmp' to '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/Autosaves/Game/WidgetBluePrints/Heart_WB_Auto3.uasset'
+[2024.04.20-20.36.54:947][877]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WidgetBluePrints/PlayerHeart_WB] ([2] browsable assets)...
+[2024.04.20-20.36.54:949][877]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WidgetBluePrints/PlayerHeart_WB.PlayerHeart_WB]
+[2024.04.20-20.36.54:949][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/WidgetBluePrints/PlayerHeart_WB]
+[2024.04.20-20.36.54:959][877]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WidgetBluePrints/PlayerHeart_WB_Auto3
+[2024.04.20-20.36.54:959][877]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/PlayerHeart_WB_Auto36F15E2844DF598257D52AB843AA72364.tmp' to '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/Autosaves/Game/WidgetBluePrints/PlayerHeart_WB_Auto3.uasset'
+[2024.04.20-20.36.54:960][877]LogFileHelpers: Auto-saving content packages took 0.022
+[2024.04.20-20.40.15:990][509]BlueprintLog: New page: Compile Player_BP
+[2024.04.20-20.40.16:056][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.04.20-20.40.17:634][647]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.20-20.40.17:641][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.20-20.40.17:641][647]PIE: New page: PIE session: Prototype (Apr 20, 2024, 10:40:17 AM)
+[2024.04.20-20.40.17:641][647]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Prototype
+[2024.04.20-20.40.17:643][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001986s)
+[2024.04.20-20.40.17:643][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Prototype.Prototype to /Game/Levels/UEDPIE_0_Prototype.Prototype (0.002017s)
+[2024.04.20-20.40.17:657][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.20-20.40.17:660][647]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.20-20.40.17:660][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.20-20.40.17:661][647]LogAIModule: Creating AISystem for world Prototype
+[2024.04.20-20.40.17:661][647]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2024.04.20-20.40.17:661][647]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.04.20-20.40.17:661][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.20-20.40.17:661][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.20-20.40.17:661][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.20-20.40.17:661][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.20-20.40.17:661][647]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.20-20.40.17:661][647]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.20-20.40.17:661][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.20-20.40.17:661][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.20-20.40.17:662][647]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.20-20.40.17:662][647]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.20-20.40.17:662][647]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.20-20.40.17:663][647]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.20-20.40.17:694][647]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2024.04.20-20.40.17:694][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.20-20.40.17:694][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.20-20.40.17:694][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.20-20.40.17:695][647]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.04.20-20.40.17:695][647]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.04.20-20.40.17:697][647]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.04.20-20.40.17:697][647]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.04.20-20.40.17:697][647]LogInit: FAudioDevice initialized with ID 10.
+[2024.04.20-20.40.17:697][647]LogAudio: Display: Audio Device (ID: 10) registered with world 'Prototype'.
+[2024.04.20-20.40.17:697][647]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.20-20.40.17:746][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.20-20.40.17:746][647]LogLoad: Game class is '2DGameMode_C'
+[2024.04.20-20.40.17:747][647]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2024.04.20-15.40.17
+[2024.04.20-20.40.17:748][647]LogWorld: Bringing up level for play took: 0.000966
+[2024.04.20-20.40.17:750][647]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.04.20-20.40.17:759][647]PIE: Server logged in
+[2024.04.20-20.40.17:765][647]PIE: Play in editor total start time 0.124 seconds.
+[2024.04.20-20.40.17:773][647]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.04.20-20.40.18:523][695]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.20-20.40.23:923][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.20-20.40.23:923][235]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Prototype
+[2024.04.20-20.40.23:925][235]LogSlate: Window 'Platformer2D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.20-20.40.23:929][235]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2024.04.20-20.40.23:930][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-20.40.23:932][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.20-20.40.23:936][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-20.40.23:952][235]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.20-20.40.23:952][235]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.20-20.40.23:952][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.20-20.40.23:953][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.20-20.40.23:961][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.04.20-20.40.24:009][238]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.04.20-20.40.32:456][227]BlueprintLog: New page: Compile Player_BP
+[2024.04.20-20.40.32:515][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.20-20.40.33:407][290]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.20-20.40.33:415][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.20-20.40.33:415][290]PIE: New page: PIE session: Prototype (Apr 20, 2024, 10:40:33 AM)
+[2024.04.20-20.40.33:415][290]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Prototype
+[2024.04.20-20.40.33:417][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001903s)
+[2024.04.20-20.40.33:417][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Prototype.Prototype to /Game/Levels/UEDPIE_0_Prototype.Prototype (0.001932s)
+[2024.04.20-20.40.33:434][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.20-20.40.33:438][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.20-20.40.33:438][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.20-20.40.33:439][290]LogAIModule: Creating AISystem for world Prototype
+[2024.04.20-20.40.33:439][290]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2024.04.20-20.40.33:439][290]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.04.20-20.40.33:439][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.20-20.40.33:439][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.20-20.40.33:439][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.20-20.40.33:439][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.20-20.40.33:439][290]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.20-20.40.33:439][290]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.20-20.40.33:439][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.20-20.40.33:439][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.20-20.40.33:440][290]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.20-20.40.33:440][290]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.20-20.40.33:440][290]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.20-20.40.33:442][290]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.20-20.40.33:469][290]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2024.04.20-20.40.33:470][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.20-20.40.33:470][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.20-20.40.33:470][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.20-20.40.33:470][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.04.20-20.40.33:470][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.04.20-20.40.33:472][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.04.20-20.40.33:472][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.04.20-20.40.33:472][290]LogInit: FAudioDevice initialized with ID 11.
+[2024.04.20-20.40.33:472][290]LogAudio: Display: Audio Device (ID: 11) registered with world 'Prototype'.
+[2024.04.20-20.40.33:472][290]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.20-20.40.33:530][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.20-20.40.33:530][290]LogLoad: Game class is '2DGameMode_C'
+[2024.04.20-20.40.33:531][290]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2024.04.20-15.40.33
+[2024.04.20-20.40.33:531][290]LogWorld: Bringing up level for play took: 0.000943
+[2024.04.20-20.40.33:534][290]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.04.20-20.40.33:543][290]PIE: Server logged in
+[2024.04.20-20.40.33:548][290]PIE: Play in editor total start time 0.134 seconds.
+[2024.04.20-20.40.33:555][290]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.04.20-20.40.34:528][363]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.20-20.40.38:784][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.20-20.40.38:785][758]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Prototype
+[2024.04.20-20.40.38:785][758]LogSlate: Window 'Platformer2D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.20-20.40.38:789][758]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2024.04.20-20.40.38:789][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-20.40.38:791][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.20-20.40.38:798][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-20.40.38:814][758]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.20-20.40.38:814][758]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.20-20.40.38:814][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.20-20.40.38:816][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.20-20.40.38:821][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.20-20.40.38:855][761]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.04.20-20.41.41:188][ 64]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.04.20-20.41.41:188][ 64]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.04.20-20.42.15:506][ 87]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.04.20-20.43.10:096][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.20-20.43.10:101][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.20-20.43.10:131][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/Player_BP" FILE="../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Content/PlayerCharacter/Player_BP.uasset" SILENT=true
+[2024.04.20-20.43.10:170][226]LogSavePackage: Moving output files for package: /Game/PlayerCharacter/Player_BP
+[2024.04.20-20.43.10:171][226]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/Player_BPB1A37BDE41B0ED7AF802A7A69EA83A4A.tmp' to '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Content/PlayerCharacter/Player_BP.uasset'
+[2024.04.20-20.43.10:172][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBluePrints/Heart_WB" FILE="../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Content/WidgetBluePrints/Heart_WB.uasset" SILENT=true
+[2024.04.20-20.43.10:175][226]LogSavePackage: Moving output files for package: /Game/WidgetBluePrints/Heart_WB
+[2024.04.20-20.43.10:176][226]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/Heart_WBD618BC1845C6E5D41C049EB3D405206A.tmp' to '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Content/WidgetBluePrints/Heart_WB.uasset'
+[2024.04.20-20.43.10:189][226]LogSavePackage: Moving output files for package: /Game/WidgetBluePrints/PlayerHeart_WB
+[2024.04.20-20.43.10:189][226]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/PlayerHeart_WB8DE037C64BAABE5C6561899CF3DF803E.tmp' to '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Content/WidgetBluePrints/PlayerHeart_WB.uasset'
+[2024.04.20-20.43.10:195][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 325 ms)
+[2024.04.20-20.43.10:199][226]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.20-20.43.10:199][226]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PlayerCharacter/Player_BP.Player_BP
+[2024.04.20-20.43.10:199][226]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WidgetBluePrints/Heart_WB.Heart_WB
+[2024.04.20-20.43.10:199][226]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WidgetBluePrints/PlayerHeart_WB.PlayerHeart_WB
