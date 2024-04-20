@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/cilff/Documents/Unreal Projects/Game-Development/Platformer2D/Content/PlayerCharacter/Player_BP.uasset",
+				"C:/Users/cilff/Documents/Unreal Projects/Game-Development/Platformer2D/Content/WidgetBluePrints/Heart_WB.uasset",
+				"C:/Users/cilff/Documents/Unreal Projects/Game-Development/Platformer2D/Content/WidgetBluePrints/PlayerHeart_WB.uasset",
 				"E:/Game Development/Game-Development/Platformer2D/Content/PlayerCharacter/Player_BP.uasset",
 				"E:/Game Development/Game-Development/Platformer2D/Content/PlayerCharacter/Animations/AnimSequences/WallSlide.uasset",
 				"E:/Game Development/Game-Development/Platformer2D/Content/PlayerCharacter/Animations/WarriorAnimationSource.uasset",
@@ -84,7 +87,6 @@
 				"E:/Game Development/Game-Development/Platformer2D/Content/2D+PlatformerCoureAssetrs/2D_PlatformerCoureAssetrs/Skeleton/Walk/Walk.uasset",
 				"E:/Game Development/Game-Development/Platformer2D/Content/2D+PlatformerCoureAssetrs/2D_PlatformerCoureAssetrs/Skeleton/Walk.uasset",
 				"E:/Game Development/Game-Development/Platformer2D/Content/2D+PlatformerCoureAssetrs/2D_PlatformerCoureAssetrs/Skeleton/Death/SkeletonDeath.uasset",
-				"C:/Users/cilff/Documents/Unreal Projects/Game-Development/Platformer2D/Content/PlayerCharacter/Player_BP.uasset",
 				"C:/Users/cilff/Documents/Unreal Projects/Platformer2D/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"C:/Users/cilff/Documents/Unreal Projects/Platformer2D/Content/Day1_HLOD0_Instancing.uasset",
 				"C:/Users/cilff/Documents/Unreal Projects/Platformer2D/Content/__ExternalActors__/Day1/A/1M/5O8IWBYR0QVS2HRN67HPKL.uasset",
