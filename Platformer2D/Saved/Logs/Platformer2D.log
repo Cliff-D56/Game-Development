@@ -4296,3 +4296,1143 @@ UnknownFunction []
 [2024.04.27-04.53.41:611][444]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileSet /Game/Levels/FreeCuteTileset/BG2_TileSet.BG2_TileSet
 [2024.04.27-04.53.41:611][444]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileSet /Game/Levels/FreeCuteTileset/BG3_TileSet.BG3_TileSet
 [2024.04.27-04.53.41:611][444]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileMap /Game/Levels/FreeCuteTileset/Level1.Level1
+[2024.04.27-04.55.08:467][389]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.27-04.55.08:475][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.27-04.55.08:475][389]PIE: New page: PIE session: Level1 (Apr 26, 2024, 6:55:08 PM)
+[2024.04.27-04.55.08:475][389]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2024.04.27-04.55.08:477][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001995s)
+[2024.04.27-04.55.08:477][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.002036s)
+[2024.04.27-04.55.08:492][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.27-04.55.08:494][389]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.27-04.55.08:494][389]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.27-04.55.08:495][389]LogAIModule: Creating AISystem for world Level1
+[2024.04.27-04.55.08:495][389]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2024.04.27-04.55.08:495][389]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2024.04.27-04.55.08:495][389]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.27-04.55.08:495][389]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.27-04.55.08:495][389]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.27-04.55.08:495][389]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.27-04.55.08:495][389]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.27-04.55.08:495][389]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.27-04.55.08:495][389]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.27-04.55.08:495][389]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.27-04.55.08:496][389]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.27-04.55.08:496][389]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.27-04.55.08:496][389]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.27-04.55.08:498][389]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.27-04.55.08:526][389]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2024.04.27-04.55.08:526][389]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.27-04.55.08:526][389]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.27-04.55.08:526][389]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.27-04.55.08:527][389]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2024.04.27-04.55.08:527][389]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2024.04.27-04.55.08:529][389]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2024.04.27-04.55.08:529][389]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2024.04.27-04.55.08:529][389]LogInit: FAudioDevice initialized with ID 45.
+[2024.04.27-04.55.08:529][389]LogAudio: Display: Audio Device (ID: 45) registered with world 'Level1'.
+[2024.04.27-04.55.08:529][389]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2024.04.27-04.55.08:580][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-04.55.08:580][389]LogLoad: Game class is '2DGameMode_C'
+[2024.04.27-04.55.08:583][389]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.04.26-23.55.08
+[2024.04.27-04.55.08:583][389]LogWorld: Bringing up level for play took: 0.003205
+[2024.04.27-04.55.08:586][389]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2024.04.27-04.55.08:624][389]PIE: Server logged in
+[2024.04.27-04.55.08:630][389]PIE: Play in editor total start time 0.157 seconds.
+[2024.04.27-04.55.08:641][389]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.04.27-04.55.09:256][435]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-04.55.51:195][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-04.55.51:195][ 69]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2024.04.27-04.55.51:196][ 69]LogSlate: Window 'Platformer2D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.27-04.55.51:200][ 69]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-04.55.51:200][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-04.55.51:203][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.27-04.55.51:209][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-04.55.51:225][ 69]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2024.04.27-04.55.51:225][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.04.27-04.55.51:227][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.04.27-04.55.51:234][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.27-04.55.51:277][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.04.27-04.56.15:575][270]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimBP /Game/PlayerCharacter/Animations/WarriorZDAnimationBP.WarriorZDAnimationBP
+[2024.04.27-04.56.15:575][270]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.27-04.56.15:575][270]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.27-04.56.54:215][758]BlueprintLog: New page: Compile WarriorZDAnimationBP
+[2024.04.27-04.56.54:267][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.04.27-04.56.56:010][955]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.27-04.56.56:018][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.27-04.56.56:018][955]PIE: New page: PIE session: Level1 (Apr 26, 2024, 6:56:56 PM)
+[2024.04.27-04.56.56:018][955]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2024.04.27-04.56.56:020][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001702s)
+[2024.04.27-04.56.56:020][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.001733s)
+[2024.04.27-04.56.56:033][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.27-04.56.56:035][955]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.27-04.56.56:035][955]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.27-04.56.56:035][955]LogAIModule: Creating AISystem for world Level1
+[2024.04.27-04.56.56:036][955]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2024.04.27-04.56.56:036][955]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2024.04.27-04.56.56:036][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.27-04.56.56:036][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.27-04.56.56:036][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.27-04.56.56:036][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.27-04.56.56:036][955]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.27-04.56.56:036][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.27-04.56.56:036][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.27-04.56.56:036][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.27-04.56.56:036][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.27-04.56.56:036][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.27-04.56.56:036][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.27-04.56.56:038][955]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.27-04.56.56:066][955]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2024.04.27-04.56.56:066][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.27-04.56.56:066][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.27-04.56.56:066][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.27-04.56.56:067][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2024.04.27-04.56.56:067][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2024.04.27-04.56.56:068][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2024.04.27-04.56.56:068][955]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2024.04.27-04.56.56:068][955]LogInit: FAudioDevice initialized with ID 46.
+[2024.04.27-04.56.56:068][955]LogAudio: Display: Audio Device (ID: 46) registered with world 'Level1'.
+[2024.04.27-04.56.56:068][955]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2024.04.27-04.56.56:115][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-04.56.56:116][955]LogLoad: Game class is '2DGameMode_C'
+[2024.04.27-04.56.56:119][955]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.04.26-23.56.56
+[2024.04.27-04.56.56:119][955]LogWorld: Bringing up level for play took: 0.003279
+[2024.04.27-04.56.56:121][955]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2024.04.27-04.56.56:151][955]PIE: Server logged in
+[2024.04.27-04.56.56:151][955]PIE: Play in editor total start time 0.134 seconds.
+[2024.04.27-04.56.56:160][955]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.04.27-04.56.57:124][ 40]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-04.57.10:916][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-04.57.10:916][666]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2024.04.27-04.57.10:916][666]LogSlate: Window 'Platformer2D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.27-04.57.10:920][666]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-04.57.10:920][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-04.57.10:922][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.27-04.57.10:928][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-04.57.10:942][666]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.27-04.57.10:942][666]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2024.04.27-04.57.10:942][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.04.27-04.57.10:944][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.04.27-04.57.10:950][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.27-04.57.10:989][667]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2024.04.27-04.57.19:783][169]LogSlate: External Image Picker: DecompressImage failed
+[2024.04.27-04.57.40:064][834]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.27-04.57.40:069][834]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.27-04.57.44:492][336]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.27-04.57.44:499][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.27-04.57.44:499][336]PIE: New page: PIE session: Level1 (Apr 26, 2024, 6:57:44 PM)
+[2024.04.27-04.57.44:499][336]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2024.04.27-04.57.44:501][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001741s)
+[2024.04.27-04.57.44:501][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.001774s)
+[2024.04.27-04.57.44:512][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.27-04.57.44:513][336]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.27-04.57.44:513][336]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.27-04.57.44:514][336]LogAIModule: Creating AISystem for world Level1
+[2024.04.27-04.57.44:515][336]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2024.04.27-04.57.44:515][336]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2024.04.27-04.57.44:515][336]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.27-04.57.44:515][336]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.27-04.57.44:515][336]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.27-04.57.44:515][336]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.27-04.57.44:515][336]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.27-04.57.44:515][336]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.27-04.57.44:515][336]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.27-04.57.44:515][336]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.27-04.57.44:515][336]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.27-04.57.44:515][336]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.27-04.57.44:515][336]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.27-04.57.44:517][336]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.27-04.57.44:544][336]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2024.04.27-04.57.44:544][336]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.27-04.57.44:544][336]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.27-04.57.44:544][336]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.27-04.57.44:544][336]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2024.04.27-04.57.44:544][336]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2024.04.27-04.57.44:546][336]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2024.04.27-04.57.44:546][336]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2024.04.27-04.57.44:546][336]LogInit: FAudioDevice initialized with ID 47.
+[2024.04.27-04.57.44:546][336]LogAudio: Display: Audio Device (ID: 47) registered with world 'Level1'.
+[2024.04.27-04.57.44:546][336]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2024.04.27-04.57.44:597][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-04.57.44:597][336]LogLoad: Game class is '2DGameMode_C'
+[2024.04.27-04.57.44:600][336]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.04.26-23.57.44
+[2024.04.27-04.57.44:600][336]LogWorld: Bringing up level for play took: 0.002904
+[2024.04.27-04.57.44:602][336]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2024.04.27-04.57.44:630][336]PIE: Server logged in
+[2024.04.27-04.57.44:631][336]PIE: Play in editor total start time 0.132 seconds.
+[2024.04.27-04.57.44:639][336]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.04.27-04.57.45:225][387]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-04.58.00:635][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-04.58.00:635][230]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2024.04.27-04.58.00:636][230]LogSlate: Window 'Platformer2D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.27-04.58.00:641][230]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-04.58.00:641][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-04.58.00:644][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.27-04.58.00:649][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-04.58.00:663][230]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2024.04.27-04.58.00:663][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2024.04.27-04.58.00:665][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2024.04.27-04.58.00:670][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.27-04.58.00:709][231]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2024.04.27-04.58.44:886][141]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Skeleton/Blueprint/Skeleton_BP.Skeleton_BP_C
+[2024.04.27-04.58.44:887][141]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Skeleton/Blueprint/Skeleton_BP.Skeleton_BP_C
+[2024.04.27-04.58.44:888][141]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Skeleton/Blueprint/Skeleton_BP.Skeleton_BP as actor: Skeleton_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Skeleton_BP_C_0
+[2024.04.27-04.58.44:889][141]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Skeleton/Blueprint/Skeleton_BP.Skeleton_BP as actor: Skeleton_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Skeleton_BP_C_0
+[2024.04.27-04.58.46:402][294]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Skeleton/Blueprint/Skeleton_BP.Skeleton_BP_C
+[2024.04.27-04.58.46:402][294]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Skeleton/Blueprint/Skeleton_BP.Skeleton_BP_C
+[2024.04.27-04.58.46:406][294]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Skeleton/Blueprint/Skeleton_BP.Skeleton_BP as actor: Skeleton_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Skeleton_BP_C_1
+[2024.04.27-04.58.46:407][294]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Skeleton/Blueprint/Skeleton_BP.Skeleton_BP as actor: Skeleton_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Skeleton_BP_C_1
+[2024.04.27-04.58.46:433][294]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-04.58.57:733][588]Cmd: EDIT COPY
+[2024.04.27-04.58.59:542][803]Cmd: EDIT PASTE
+[2024.04.27-04.58.59:573][803]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-04.58.59:943][837]Cmd: EDIT PASTE
+[2024.04.27-04.58.59:975][837]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-04.59.00:264][862]Cmd: EDIT PASTE
+[2024.04.27-04.59.00:295][862]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-04.59.00:542][882]Cmd: EDIT PASTE
+[2024.04.27-04.59.00:572][882]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-04.59.00:991][922]Cmd: EDIT PASTE
+[2024.04.27-04.59.01:020][922]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-04.59.15:028][509]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-04.59.22:001][275]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-04.59.30:768][236]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-04.59.31:410][300]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-04.59.33:027][475]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-04.59.33:863][560]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-04.59.35:141][699]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-04.59.37:283][937]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-04.59.38:735][ 97]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-04.59.39:400][160]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-04.59.39:683][182]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-04.59.59:320][376]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-05.00.00:409][487]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-05.00.01:263][572]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-05.00.01:737][613]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-05.00.02:130][646]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-05.00.02:354][661]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-05.00.03:082][733]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-05.00.54:003][578]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Mushroom/Blueprints/Mushroom_BP.Mushroom_BP_C
+[2024.04.27-05.00.54:003][578]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Mushroom/Blueprints/Mushroom_BP.Mushroom_BP_C
+[2024.04.27-05.00.54:005][578]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Mushroom/Blueprints/Mushroom_BP.Mushroom_BP as actor: Mushroom_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Mushroom_BP_C_0
+[2024.04.27-05.00.54:006][578]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Mushroom/Blueprints/Mushroom_BP.Mushroom_BP as actor: Mushroom_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Mushroom_BP_C_0
+[2024.04.27-05.00.56:353][804]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Mushroom/Blueprints/Mushroom_BP.Mushroom_BP_C
+[2024.04.27-05.00.56:353][804]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Mushroom/Blueprints/Mushroom_BP.Mushroom_BP_C
+[2024.04.27-05.00.56:357][804]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Mushroom/Blueprints/Mushroom_BP.Mushroom_BP as actor: Mushroom_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Mushroom_BP_C_1
+[2024.04.27-05.00.56:358][804]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Mushroom/Blueprints/Mushroom_BP.Mushroom_BP as actor: Mushroom_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Mushroom_BP_C_1
+[2024.04.27-05.00.56:382][804]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-05.01.10:925][436]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Mushroom/Blueprints/Mushroom_BP.Mushroom_BP_C
+[2024.04.27-05.01.10:925][436]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Mushroom/Blueprints/Mushroom_BP.Mushroom_BP_C
+[2024.04.27-05.01.10:926][436]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Mushroom/Blueprints/Mushroom_BP.Mushroom_BP as actor: Mushroom_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Mushroom_BP_C_2
+[2024.04.27-05.01.10:928][436]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Mushroom/Blueprints/Mushroom_BP.Mushroom_BP as actor: Mushroom_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Mushroom_BP_C_2
+[2024.04.27-05.01.13:143][630]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Mushroom/Blueprints/Mushroom_BP.Mushroom_BP_C
+[2024.04.27-05.01.13:143][630]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Mushroom/Blueprints/Mushroom_BP.Mushroom_BP_C
+[2024.04.27-05.01.13:148][630]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Mushroom/Blueprints/Mushroom_BP.Mushroom_BP as actor: Mushroom_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Mushroom_BP_C_3
+[2024.04.27-05.01.13:149][630]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Mushroom/Blueprints/Mushroom_BP.Mushroom_BP as actor: Mushroom_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Mushroom_BP_C_3
+[2024.04.27-05.01.13:172][630]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-05.01.32:563][872]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Goblin/Blueprints/Goblin_BP.Goblin_BP_C
+[2024.04.27-05.01.32:563][872]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Goblin/Blueprints/Goblin_BP.Goblin_BP_C
+[2024.04.27-05.01.32:565][872]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Goblin/Blueprints/Goblin_BP.Goblin_BP as actor: Goblin_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Goblin_BP_C_0
+[2024.04.27-05.01.32:565][872]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Goblin/Blueprints/Goblin_BP.Goblin_BP as actor: Goblin_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Goblin_BP_C_0
+[2024.04.27-05.01.34:645][ 69]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Goblin/Blueprints/Goblin_BP.Goblin_BP_C
+[2024.04.27-05.01.34:645][ 69]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Goblin/Blueprints/Goblin_BP.Goblin_BP_C
+[2024.04.27-05.01.34:648][ 69]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Goblin/Blueprints/Goblin_BP.Goblin_BP as actor: Goblin_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Goblin_BP_C_1
+[2024.04.27-05.01.34:649][ 69]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Goblin/Blueprints/Goblin_BP.Goblin_BP as actor: Goblin_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Goblin_BP_C_1
+[2024.04.27-05.01.34:673][ 69]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-05.02.01:015][476]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-05.02.11:783][672]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-05.02.54:800][844]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/CoinPickup_BP.CoinPickup_BP_C
+[2024.04.27-05.02.54:800][844]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/CoinPickup_BP.CoinPickup_BP_C
+[2024.04.27-05.02.54:801][844]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/CoinPickup_BP.CoinPickup_BP as actor: CoinPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.CoinPickup_BP_C_0
+[2024.04.27-05.02.54:802][844]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/CoinPickup_BP.CoinPickup_BP as actor: CoinPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.CoinPickup_BP_C_0
+[2024.04.27-05.02.55:486][907]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/CoinPickup_BP.CoinPickup_BP_C
+[2024.04.27-05.02.55:486][907]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/CoinPickup_BP.CoinPickup_BP_C
+[2024.04.27-05.02.55:488][907]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/CoinPickup_BP.CoinPickup_BP as actor: CoinPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.CoinPickup_BP_C_1
+[2024.04.27-05.02.55:489][907]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/CoinPickup_BP.CoinPickup_BP as actor: CoinPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.CoinPickup_BP_C_1
+[2024.04.27-05.03.18:108][463]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/CoinPickup_BP.CoinPickup_BP_C
+[2024.04.27-05.03.18:108][463]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/CoinPickup_BP.CoinPickup_BP_C
+[2024.04.27-05.03.18:109][463]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/CoinPickup_BP.CoinPickup_BP as actor: CoinPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.CoinPickup_BP_C_5
+[2024.04.27-05.03.18:110][463]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/CoinPickup_BP.CoinPickup_BP as actor: CoinPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.CoinPickup_BP_C_5
+[2024.04.27-05.03.19:338][584]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/CoinPickup_BP.CoinPickup_BP_C
+[2024.04.27-05.03.19:338][584]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/CoinPickup_BP.CoinPickup_BP_C
+[2024.04.27-05.03.19:340][584]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/CoinPickup_BP.CoinPickup_BP as actor: CoinPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.CoinPickup_BP_C_6
+[2024.04.27-05.03.19:341][584]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/CoinPickup_BP.CoinPickup_BP as actor: CoinPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.CoinPickup_BP_C_6
+[2024.04.27-05.04.43:973][ 97]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/HealthPickup_BP.HealthPickup_BP_C
+[2024.04.27-05.04.43:973][ 97]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/HealthPickup_BP.HealthPickup_BP_C
+[2024.04.27-05.04.43:975][ 97]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/HealthPickup_BP.HealthPickup_BP as actor: HealthPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.HealthPickup_BP_C_0
+[2024.04.27-05.04.43:975][ 97]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/HealthPickup_BP.HealthPickup_BP as actor: HealthPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.HealthPickup_BP_C_0
+[2024.04.27-05.04.45:204][206]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/HealthPickup_BP.HealthPickup_BP_C
+[2024.04.27-05.04.45:204][206]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/HealthPickup_BP.HealthPickup_BP_C
+[2024.04.27-05.04.45:206][206]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/HealthPickup_BP.HealthPickup_BP as actor: HealthPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.HealthPickup_BP_C_1
+[2024.04.27-05.04.45:207][206]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/HealthPickup_BP.HealthPickup_BP as actor: HealthPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.HealthPickup_BP_C_1
+[2024.04.27-05.05.30:307][349]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/Saw_BP.Saw_BP_C
+[2024.04.27-05.05.30:307][349]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/Saw_BP.Saw_BP_C
+[2024.04.27-05.05.30:308][349]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/Saw_BP.Saw_BP as actor: Saw_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Saw_BP_C_0
+[2024.04.27-05.05.30:309][349]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/Saw_BP.Saw_BP as actor: Saw_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Saw_BP_C_0
+[2024.04.27-05.05.31:543][460]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/Saw_BP.Saw_BP_C
+[2024.04.27-05.05.31:543][460]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/Saw_BP.Saw_BP_C
+[2024.04.27-05.05.31:544][460]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/Saw_BP.Saw_BP as actor: Saw_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Saw_BP_C_1
+[2024.04.27-05.05.31:546][460]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/Saw_BP.Saw_BP as actor: Saw_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Saw_BP_C_1
+[2024.04.27-05.05.46:767][225]Cmd: DELETE
+[2024.04.27-05.05.46:767][225]Cmd: ACTOR DELETE
+[2024.04.27-05.05.46:789][225]LogEditorActor: Deleted Actor: Saw_BP_C
+[2024.04.27-05.05.46:836][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.04.27-05.05.46:839][225]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2024.04.27-05.05.52:599][889]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/CoinPickup_BP.CoinPickup_BP_C
+[2024.04.27-05.05.52:599][889]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/CoinPickup_BP.CoinPickup_BP_C
+[2024.04.27-05.05.52:600][889]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/CoinPickup_BP.CoinPickup_BP as actor: CoinPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.CoinPickup_BP_C_27
+[2024.04.27-05.05.52:601][889]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/CoinPickup_BP.CoinPickup_BP as actor: CoinPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.CoinPickup_BP_C_27
+[2024.04.27-05.05.53:919][ 42]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/CoinPickup_BP.CoinPickup_BP_C
+[2024.04.27-05.05.53:920][ 42]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/CoinPickup_BP.CoinPickup_BP_C
+[2024.04.27-05.05.53:921][ 42]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/CoinPickup_BP.CoinPickup_BP as actor: CoinPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.CoinPickup_BP_C_28
+[2024.04.27-05.05.53:922][ 42]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/CoinPickup_BP.CoinPickup_BP as actor: CoinPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.CoinPickup_BP_C_28
+[2024.04.27-05.06.34:534][507]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/HealthPickup_BP.HealthPickup_BP_C
+[2024.04.27-05.06.34:534][507]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/HealthPickup_BP.HealthPickup_BP_C
+[2024.04.27-05.06.34:535][507]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/HealthPickup_BP.HealthPickup_BP as actor: HealthPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.HealthPickup_BP_C_4
+[2024.04.27-05.06.34:535][507]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/HealthPickup_BP.HealthPickup_BP as actor: HealthPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.HealthPickup_BP_C_4
+[2024.04.27-05.06.35:534][603]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/HealthPickup_BP.HealthPickup_BP_C
+[2024.04.27-05.06.35:534][603]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/HealthPickup_BP.HealthPickup_BP_C
+[2024.04.27-05.06.35:536][603]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/HealthPickup_BP.HealthPickup_BP as actor: HealthPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.HealthPickup_BP_C_5
+[2024.04.27-05.06.35:537][603]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/HealthPickup_BP.HealthPickup_BP as actor: HealthPickup_BP_C /Game/Levels/Level1.Level1:PersistentLevel.HealthPickup_BP_C_5
+[2024.04.27-05.07.24:290][206]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-05.07.27:685][595]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.27-05.07.27:692][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.27-05.07.27:692][595]PIE: New page: PIE session: Level1 (Apr 26, 2024, 7:07:27 PM)
+[2024.04.27-05.07.27:725][595]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2024.04.27-05.07.27:735][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009495s)
+[2024.04.27-05.07.27:735][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.009534s)
+[2024.04.27-05.07.27:755][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.27-05.07.27:756][595]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.27-05.07.27:757][595]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.27-05.07.27:757][595]LogAIModule: Creating AISystem for world Level1
+[2024.04.27-05.07.27:757][595]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2024.04.27-05.07.27:757][595]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2024.04.27-05.07.27:757][595]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.27-05.07.27:757][595]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.27-05.07.27:757][595]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.27-05.07.27:757][595]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.27-05.07.27:757][595]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.27-05.07.27:757][595]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.27-05.07.27:757][595]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.27-05.07.27:758][595]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.27-05.07.27:758][595]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.27-05.07.27:758][595]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.27-05.07.27:758][595]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.27-05.07.27:760][595]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.27-05.07.27:789][595]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2024.04.27-05.07.27:789][595]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.27-05.07.27:789][595]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.27-05.07.27:789][595]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.27-05.07.27:790][595]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2024.04.27-05.07.27:790][595]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2024.04.27-05.07.27:792][595]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2024.04.27-05.07.27:792][595]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2024.04.27-05.07.27:792][595]LogInit: FAudioDevice initialized with ID 48.
+[2024.04.27-05.07.27:792][595]LogAudio: Display: Audio Device (ID: 48) registered with world 'Level1'.
+[2024.04.27-05.07.27:792][595]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2024.04.27-05.07.27:796][595]LogLoad: Game class is '2DGameMode_C'
+[2024.04.27-05.07.27:803][595]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.04.27-00.07.27
+[2024.04.27-05.07.27:804][595]LogWorld: Bringing up level for play took: 0.008169
+[2024.04.27-05.07.27:806][595]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2024.04.27-05.07.27:837][595]PIE: Server logged in
+[2024.04.27-05.07.27:837][595]PIE: Play in editor total start time 0.146 seconds.
+[2024.04.27-05.07.28:298][643]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.07.34:236][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-05.07.34:236][348]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2024.04.27-05.07.34:236][348]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-05.07.34:237][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-05.07.34:240][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.27-05.07.34:245][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-05.07.34:258][348]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.27-05.07.34:258][348]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2024.04.27-05.07.34:258][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2024.04.27-05.07.34:260][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2024.04.27-05.07.34:263][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-05.07.34:267][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.27-05.07.34:319][349]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-05.07.34:380][349]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2024.04.27-05.07.36:378][573]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.27-05.07.36:385][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.27-05.07.36:385][573]PIE: New page: PIE session: Level1 (Apr 26, 2024, 7:07:36 PM)
+[2024.04.27-05.07.36:406][573]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2024.04.27-05.07.36:415][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008634s)
+[2024.04.27-05.07.36:415][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.008670s)
+[2024.04.27-05.07.36:430][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.27-05.07.36:432][573]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.27-05.07.36:432][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.27-05.07.36:432][573]LogAIModule: Creating AISystem for world Level1
+[2024.04.27-05.07.36:432][573]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2024.04.27-05.07.36:432][573]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2024.04.27-05.07.36:432][573]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.27-05.07.36:432][573]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.27-05.07.36:433][573]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.27-05.07.36:433][573]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.27-05.07.36:433][573]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.27-05.07.36:433][573]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.27-05.07.36:433][573]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.27-05.07.36:433][573]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.27-05.07.36:433][573]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.27-05.07.36:433][573]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.27-05.07.36:433][573]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.27-05.07.36:435][573]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.27-05.07.36:463][573]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2024.04.27-05.07.36:463][573]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.27-05.07.36:463][573]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.27-05.07.36:463][573]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.27-05.07.36:463][573]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2024.04.27-05.07.36:463][573]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2024.04.27-05.07.36:465][573]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2024.04.27-05.07.36:466][573]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2024.04.27-05.07.36:466][573]LogInit: FAudioDevice initialized with ID 49.
+[2024.04.27-05.07.36:466][573]LogAudio: Display: Audio Device (ID: 49) registered with world 'Level1'.
+[2024.04.27-05.07.36:466][573]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2024.04.27-05.07.36:468][573]LogLoad: Game class is '2DGameMode_C'
+[2024.04.27-05.07.36:473][573]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.04.27-00.07.36
+[2024.04.27-05.07.36:474][573]LogWorld: Bringing up level for play took: 0.006186
+[2024.04.27-05.07.36:476][573]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2024.04.27-05.07.36:505][573]PIE: Server logged in
+[2024.04.27-05.07.36:505][573]PIE: Play in editor total start time 0.121 seconds.
+[2024.04.27-05.07.36:922][614]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.08.22:206][ 43]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'lostHeartRef' of length 0 in '/Game/WidgetBluePrints/PlayerHud_WB.PlayerHud_WB_C'!
+[2024.04.27-05.08.22:206][ 43]LogScript: Warning: Script Msg called by: PlayerHud_WB_C /Engine/Transient.UnrealEdEngine_0:GameInstance_47.PlayerHud_WB_C_0
+[2024.04.27-05.08.25:226][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-05.08.25:226][401]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2024.04.27-05.08.25:226][401]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-05.08.25:227][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-05.08.25:229][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.27-05.08.25:235][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-05.08.25:249][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-05.08.25:250][401]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2024.04.27-05.08.25:250][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2024.04.27-05.08.25:252][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2024.04.27-05.08.25:258][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.27-05.08.25:310][402]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-05.08.25:370][402]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2024.04.27-05.08.52:238][848]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/Checkpoint_BP.Checkpoint_BP_C
+[2024.04.27-05.08.52:238][848]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/Checkpoint_BP.Checkpoint_BP_C
+[2024.04.27-05.08.52:239][848]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Checkpoint_BP_C_0
+[2024.04.27-05.08.52:240][848]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Checkpoint_BP_C_0
+[2024.04.27-05.08.53:795][993]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/Checkpoint_BP.Checkpoint_BP_C
+[2024.04.27-05.08.53:795][993]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/Checkpoint_BP.Checkpoint_BP_C
+[2024.04.27-05.08.53:796][993]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Checkpoint_BP_C_1
+[2024.04.27-05.08.53:797][993]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Levels/Level1.Level1:PersistentLevel.Checkpoint_BP_C_1
+[2024.04.27-05.09.42:519][853]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.27-05.09.42:526][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.27-05.09.42:526][853]PIE: New page: PIE session: Level1 (Apr 26, 2024, 7:09:42 PM)
+[2024.04.27-05.09.42:556][853]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2024.04.27-05.09.42:565][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009224s)
+[2024.04.27-05.09.42:565][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.009264s)
+[2024.04.27-05.09.42:580][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.04.27-05.09.42:583][853]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.27-05.09.42:583][853]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.27-05.09.42:583][853]LogAIModule: Creating AISystem for world Level1
+[2024.04.27-05.09.42:583][853]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2024.04.27-05.09.42:583][853]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2024.04.27-05.09.42:584][853]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.27-05.09.42:584][853]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.27-05.09.42:584][853]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.27-05.09.42:584][853]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.27-05.09.42:584][853]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.27-05.09.42:584][853]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.27-05.09.42:584][853]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.27-05.09.42:584][853]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.27-05.09.42:584][853]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.27-05.09.42:584][853]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.27-05.09.42:584][853]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.27-05.09.42:585][853]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.27-05.09.42:613][853]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2024.04.27-05.09.42:614][853]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.27-05.09.42:614][853]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.27-05.09.42:614][853]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.27-05.09.42:614][853]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2024.04.27-05.09.42:614][853]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2024.04.27-05.09.42:615][853]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2024.04.27-05.09.42:615][853]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2024.04.27-05.09.42:615][853]LogInit: FAudioDevice initialized with ID 50.
+[2024.04.27-05.09.42:615][853]LogAudio: Display: Audio Device (ID: 50) registered with world 'Level1'.
+[2024.04.27-05.09.42:615][853]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2024.04.27-05.09.42:618][853]LogLoad: Game class is '2DGameMode_C'
+[2024.04.27-05.09.42:623][853]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.04.27-00.09.42
+[2024.04.27-05.09.42:625][853]LogWorld: Bringing up level for play took: 0.006644
+[2024.04.27-05.09.42:627][853]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2024.04.27-05.09.42:655][853]PIE: Server logged in
+[2024.04.27-05.09.42:657][853]PIE: Play in editor total start time 0.131 seconds.
+[2024.04.27-05.09.43:025][888]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.09.56:745][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-05.09.56:746][528]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2024.04.27-05.09.56:746][528]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-05.09.56:746][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-05.09.56:750][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.27-05.09.56:756][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-05.09.56:770][528]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.27-05.09.56:771][528]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2024.04.27-05.09.56:771][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2024.04.27-05.09.56:773][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2024.04.27-05.09.56:777][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-05.09.56:780][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.27-05.09.56:855][529]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2024.04.27-05.10.22:661][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.04.27-05.10.22:692][763]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level1_Auto5
+[2024.04.27-05.10.22:692][763]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/Level1_Auto53A7CAE854D0A5E1779EA04BBE26556FB.tmp' to '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/Autosaves/Game/Levels/Level1_Auto5.umap'
+[2024.04.27-05.10.22:693][763]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/Autosaves/Game/Levels/Level1_Auto5.umap is in the /Temp path, will not scan.
+[2024.04.27-05.10.22:693][763]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Levels/Level1_Auto5 is in the /Temp path, will not scan.
+[2024.04.27-05.10.22:693][763]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Levels/Level1_Auto5 is in the /Temp path, will not scan.
+[2024.04.27-05.10.22:693][763]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.050
+[2024.04.27-05.10.22:693][763]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2024.04.27-05.10.22:694][763]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerCharacter/Animations/WarriorZDAnimationBP] ([2] browsable assets)...
+[2024.04.27-05.10.22:694][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerCharacter/Animations/WarriorZDAnimationBP]
+[2024.04.27-05.10.22:741][763]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerCharacter/Animations/WarriorZDAnimationBP_Auto5
+[2024.04.27-05.10.22:742][763]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/WarriorZDAnimationBP_Auto5F49B77354566FE8C5B8D6480BB05AA1C.tmp' to '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/Autosaves/Game/PlayerCharacter/Animations/WarriorZDAnimationBP_Auto5.uasset'
+[2024.04.27-05.10.22:743][763]LogFileHelpers: Auto-saving content packages took 0.049
+[2024.04.27-05.10.35:264][801]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.27-05.10.35:271][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.27-05.10.35:271][801]PIE: New page: PIE session: Level1 (Apr 26, 2024, 7:10:35 PM)
+[2024.04.27-05.10.35:271][801]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2024.04.27-05.10.35:280][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008876s)
+[2024.04.27-05.10.35:280][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.008907s)
+[2024.04.27-05.10.35:293][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.27-05.10.35:294][801]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.27-05.10.35:294][801]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.27-05.10.35:294][801]LogAIModule: Creating AISystem for world Level1
+[2024.04.27-05.10.35:294][801]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2024.04.27-05.10.35:294][801]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2024.04.27-05.10.35:294][801]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.27-05.10.35:294][801]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.27-05.10.35:294][801]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.27-05.10.35:295][801]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.27-05.10.35:295][801]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.27-05.10.35:295][801]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.27-05.10.35:295][801]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.27-05.10.35:295][801]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.27-05.10.35:295][801]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.27-05.10.35:295][801]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.27-05.10.35:295][801]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.27-05.10.35:297][801]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.27-05.10.35:325][801]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2024.04.27-05.10.35:325][801]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.27-05.10.35:325][801]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.27-05.10.35:325][801]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.27-05.10.35:325][801]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2024.04.27-05.10.35:325][801]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2024.04.27-05.10.35:327][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2024.04.27-05.10.35:327][801]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2024.04.27-05.10.35:327][801]LogInit: FAudioDevice initialized with ID 51.
+[2024.04.27-05.10.35:327][801]LogAudio: Display: Audio Device (ID: 51) registered with world 'Level1'.
+[2024.04.27-05.10.35:327][801]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2024.04.27-05.10.35:330][801]LogLoad: Game class is '2DGameMode_C'
+[2024.04.27-05.10.35:335][801]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.04.27-00.10.35
+[2024.04.27-05.10.35:337][801]LogWorld: Bringing up level for play took: 0.006890
+[2024.04.27-05.10.35:338][801]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2024.04.27-05.10.35:368][801]PIE: Server logged in
+[2024.04.27-05.10.35:369][801]PIE: Play in editor total start time 0.097 seconds.
+[2024.04.27-05.10.35:873][841]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.17:065][781]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.17:830][872]LogBlueprintUserMessages: [Player_BP_C_0] 2
+[2024.04.27-05.11.18:456][947]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.19:827][111]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.25:016][733]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.26:965][966]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.28:522][153]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.35:582][998]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.36:663][127]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.37:721][254]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.39:802][503]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.40:619][601]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.41:644][724]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.42:519][829]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.43:478][944]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.44:261][ 38]LogBlueprintUserMessages: [Player_BP_C_0] 2
+[2024.04.27-05.11.48:332][526]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.49:126][621]LogBlueprintUserMessages: [Player_BP_C_0] 2
+[2024.04.27-05.11.49:743][695]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.50:268][758]LogBlueprintUserMessages: [Player_BP_C_0] 2
+[2024.04.27-05.11.52:193][989]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.52:993][ 85]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.54:048][211]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.11.54:782][299]LogBlueprintUserMessages: [Player_BP_C_0] 2
+[2024.04.27-05.11.56:565][513]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.11:244][271]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.14:205][626]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.15:835][821]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.16:510][902]LogBlueprintUserMessages: [Player_BP_C_0] 2
+[2024.04.27-05.12.17:165][980]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.17:991][ 79]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.18:866][184]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.19:600][272]LogBlueprintUserMessages: [Player_BP_C_0] 2
+[2024.04.27-05.12.20:467][376]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.21:376][485]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.26:499][ 99]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'lostHeartRef' of length 0 in '/Game/WidgetBluePrints/PlayerHud_WB.PlayerHud_WB_C'!
+[2024.04.27-05.12.26:499][ 99]LogScript: Warning: Script Msg called by: PlayerHud_WB_C /Engine/Transient.UnrealEdEngine_0:GameInstance_49.PlayerHud_WB_C_2
+[2024.04.27-05.12.28:300][315]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.29:070][407]LogBlueprintUserMessages: [Player_BP_C_0] 2
+[2024.04.27-05.12.29:910][508]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.30:614][592]LogBlueprintUserMessages: [Player_BP_C_0] 2
+[2024.04.27-05.12.31:255][669]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.33:334][918]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.33:976][995]LogBlueprintUserMessages: [Player_BP_C_0] 2
+[2024.04.27-05.12.35:197][140]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.35:980][234]LogBlueprintUserMessages: [Player_BP_C_0] 2
+[2024.04.27-05.12.37:900][464]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.38:925][587]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.41:907][945]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.42:841][ 57]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.43:825][175]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.48:612][749]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.49:579][865]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.50:571][984]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.12.53:049][281]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.13.02:106][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-05.13.02:106][364]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2024.04.27-05.13.02:106][364]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-05.13.02:106][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-05.13.02:109][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.27-05.13.02:115][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-05.13.02:130][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-05.13.02:130][364]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2024.04.27-05.13.02:130][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.04.27-05.13.02:132][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.04.27-05.13.02:138][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.27-05.13.02:213][365]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2024.04.27-05.14.01:264][373]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerCharacter/AppleProjectile_BP.AppleProjectile_BP
+[2024.04.27-05.14.01:264][373]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.27-05.14.01:264][373]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.27-05.15.34:066][529]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/Mushroom/Blueprints/Projectile_BP.Projectile_BP
+[2024.04.27-05.15.34:067][529]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.27-05.15.34:067][529]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.27-05.16.35:640][806]BlueprintLog: New page: Compile Projectile_BP
+[2024.04.27-05.16.35:673][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.27-05.16.38:515][127]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.27-05.16.38:523][127]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.27-05.16.38:532][127]LogPlayLevel: [PlayLevel] Compiling AppleProjectile_BP before play...
+[2024.04.27-05.16.38:640][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.27-05.16.38:642][127]LogPlayLevel: PlayLevel: Blueprint regeneration took 118 ms (1 blueprints)
+[2024.04.27-05.16.38:642][127]PIE: New page: PIE session: Level1 (Apr 26, 2024, 7:16:38 PM)
+[2024.04.27-05.16.38:642][127]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2024.04.27-05.16.38:651][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009301s)
+[2024.04.27-05.16.38:651][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.009335s)
+[2024.04.27-05.16.38:667][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.27-05.16.38:668][127]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.27-05.16.38:668][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.27-05.16.38:668][127]LogAIModule: Creating AISystem for world Level1
+[2024.04.27-05.16.38:669][127]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2024.04.27-05.16.38:669][127]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2024.04.27-05.16.38:669][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.27-05.16.38:669][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.27-05.16.38:669][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.27-05.16.38:669][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.27-05.16.38:669][127]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.27-05.16.38:669][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.27-05.16.38:669][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.27-05.16.38:669][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.27-05.16.38:669][127]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.27-05.16.38:669][127]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.27-05.16.38:669][127]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.27-05.16.38:671][127]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.27-05.16.38:700][127]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2024.04.27-05.16.38:701][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.27-05.16.38:701][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.27-05.16.38:701][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.27-05.16.38:701][127]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2024.04.27-05.16.38:701][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2024.04.27-05.16.38:703][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2024.04.27-05.16.38:703][127]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2024.04.27-05.16.38:703][127]LogInit: FAudioDevice initialized with ID 52.
+[2024.04.27-05.16.38:703][127]LogAudio: Display: Audio Device (ID: 52) registered with world 'Level1'.
+[2024.04.27-05.16.38:703][127]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2024.04.27-05.16.38:764][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-05.16.38:764][127]LogLoad: Game class is '2DGameMode_C'
+[2024.04.27-05.16.38:770][127]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.04.27-00.16.38
+[2024.04.27-05.16.38:772][127]LogWorld: Bringing up level for play took: 0.006699
+[2024.04.27-05.16.38:774][127]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2024.04.27-05.16.38:805][127]PIE: Server logged in
+[2024.04.27-05.16.38:806][127]PIE: Play in editor total start time 0.283 seconds.
+[2024.04.27-05.16.38:816][127]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.04.27-05.16.39:770][207]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.16.49:836][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-05.16.49:836][347]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2024.04.27-05.16.49:836][347]LogSlate: Window 'Platformer2D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.27-05.16.49:841][347]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-05.16.49:842][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-05.16.49:845][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.27-05.16.49:850][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-05.16.49:866][347]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2024.04.27-05.16.49:866][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.04.27-05.16.49:868][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.04.27-05.16.49:875][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.27-05.16.49:943][348]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2024.04.27-05.17.35:308][400]BlueprintLog: New page: Compile AppleProjectile_BP
+[2024.04.27-05.17.35:346][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.27-05.17.36:432][506]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.27-05.17.36:440][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.27-05.17.36:440][506]PIE: New page: PIE session: Level1 (Apr 26, 2024, 7:17:36 PM)
+[2024.04.27-05.17.36:440][506]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2024.04.27-05.17.36:449][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008952s)
+[2024.04.27-05.17.36:449][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.008984s)
+[2024.04.27-05.17.36:464][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.27-05.17.36:468][506]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.27-05.17.36:468][506]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.27-05.17.36:468][506]LogAIModule: Creating AISystem for world Level1
+[2024.04.27-05.17.36:468][506]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2024.04.27-05.17.36:468][506]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2024.04.27-05.17.36:468][506]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.27-05.17.36:468][506]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.27-05.17.36:468][506]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.27-05.17.36:468][506]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.27-05.17.36:468][506]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.27-05.17.36:468][506]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.27-05.17.36:469][506]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.27-05.17.36:469][506]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.27-05.17.36:469][506]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.27-05.17.36:469][506]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.27-05.17.36:469][506]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.27-05.17.36:471][506]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.27-05.17.36:499][506]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2024.04.27-05.17.36:499][506]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.27-05.17.36:499][506]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.27-05.17.36:499][506]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.27-05.17.36:500][506]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2024.04.27-05.17.36:500][506]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2024.04.27-05.17.36:501][506]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2024.04.27-05.17.36:501][506]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2024.04.27-05.17.36:501][506]LogInit: FAudioDevice initialized with ID 53.
+[2024.04.27-05.17.36:501][506]LogAudio: Display: Audio Device (ID: 53) registered with world 'Level1'.
+[2024.04.27-05.17.36:501][506]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2024.04.27-05.17.36:545][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-05.17.36:545][506]LogLoad: Game class is '2DGameMode_C'
+[2024.04.27-05.17.36:551][506]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.04.27-00.17.36
+[2024.04.27-05.17.36:552][506]LogWorld: Bringing up level for play took: 0.006880
+[2024.04.27-05.17.36:555][506]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2024.04.27-05.17.36:585][506]PIE: Server logged in
+[2024.04.27-05.17.36:586][506]PIE: Play in editor total start time 0.146 seconds.
+[2024.04.27-05.17.36:597][506]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.04.27-05.17.36:986][529]LogBlueprintUserMessages: [Player_BP_C_0] 1
+[2024.04.27-05.17.44:546][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-05.17.44:546][386]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2024.04.27-05.17.44:547][386]LogSlate: Window 'Platformer2D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.27-05.17.44:552][386]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-05.17.44:552][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-05.17.44:554][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.27-05.17.44:560][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-05.17.44:572][386]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.27-05.17.44:572][386]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2024.04.27-05.17.44:573][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.04.27-05.17.44:575][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.04.27-05.17.44:582][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.04.27-05.17.44:655][387]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2024.04.27-05.19.05:880][349]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/Skeleton/Blueprint/Skeleton_BP.Skeleton_BP
+[2024.04.27-05.19.05:880][349]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.27-05.19.05:880][349]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.27-05.19.06:347][349]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.27-05.23.09:536][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.27-05.23.09:568][699]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level1_Auto6
+[2024.04.27-05.23.09:568][699]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/Level1_Auto620A7824A489C649E0B87D0ADD3D6258E.tmp' to '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/Autosaves/Game/Levels/Level1_Auto6.umap'
+[2024.04.27-05.23.09:569][699]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/Autosaves/Game/Levels/Level1_Auto6.umap is in the /Temp path, will not scan.
+[2024.04.27-05.23.09:569][699]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Levels/Level1_Auto6 is in the /Temp path, will not scan.
+[2024.04.27-05.23.09:569][699]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Levels/Level1_Auto6 is in the /Temp path, will not scan.
+[2024.04.27-05.23.09:569][699]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.050
+[2024.04.27-05.23.09:569][699]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2024.04.27-05.23.09:570][699]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/Mushroom/Blueprints/Projectile_BP] ([2] browsable assets)...
+[2024.04.27-05.23.09:570][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Mushroom/Blueprints/Projectile_BP]
+[2024.04.27-05.23.09:576][699]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/Mushroom/Blueprints/Projectile_BP_Auto6
+[2024.04.27-05.23.09:576][699]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/Projectile_BP_Auto60928EDA5448589530305E29FDF4D3FC0.tmp' to '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/Autosaves/Game/Enemy/Mushroom/Blueprints/Projectile_BP_Auto6.uasset'
+[2024.04.27-05.23.09:577][699]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerCharacter/AppleProjectile_BP] ([2] browsable assets)...
+[2024.04.27-05.23.09:577][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerCharacter/AppleProjectile_BP]
+[2024.04.27-05.23.09:583][699]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerCharacter/AppleProjectile_BP_Auto6
+[2024.04.27-05.23.09:583][699]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/AppleProjectile_BP_Auto6982F7FFD42314F9C18427ABBC2489018.tmp' to '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/Autosaves/Game/PlayerCharacter/AppleProjectile_BP_Auto6.uasset'
+[2024.04.27-05.23.09:585][699]LogFileHelpers: Auto-saving content packages took 0.016
+[2024.04.27-05.50.23:463][601]LogDerivedDataCache: C:/Users/cilff/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.061 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 994 files in 1576 folders with total size 3 MiB.
