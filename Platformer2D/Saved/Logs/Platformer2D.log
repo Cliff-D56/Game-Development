@@ -5436,3 +5436,22 @@ UnknownFunction []
 [2024.04.27-05.23.09:583][699]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/AppleProjectile_BP_Auto6982F7FFD42314F9C18427ABBC2489018.tmp' to '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/Autosaves/Game/PlayerCharacter/AppleProjectile_BP_Auto6.uasset'
 [2024.04.27-05.23.09:585][699]LogFileHelpers: Auto-saving content packages took 0.016
 [2024.04.27-05.50.23:463][601]LogDerivedDataCache: C:/Users/cilff/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.061 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 994 files in 1576 folders with total size 3 MiB.
+[2024.04.27-06.26.53:357][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.27-06.26.53:362][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.27-06.26.53:419][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.27-06.26.53:456][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.27-06.26.53:488][716]LogSavePackage: Moving output files for package: /Game/Levels/Level1
+[2024.04.27-06.26.53:488][716]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/Level1E0815DBA43115430C4352A92B57A855C.tmp' to '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Content/Levels/Level1.umap'
+[2024.04.27-06.26.53:494][716]LogFileHelpers: Saving map 'Level1' took 0.076
+[2024.04.27-06.26.53:501][716]LogSavePackage: Moving output files for package: /Game/Enemy/Mushroom/Blueprints/Projectile_BP
+[2024.04.27-06.26.53:501][716]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/Projectile_BP67078FF64C08D2A1348512B50688164B.tmp' to '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Content/Enemy/Mushroom/Blueprints/Projectile_BP.uasset'
+[2024.04.27-06.26.53:509][716]LogSavePackage: Moving output files for package: /Game/PlayerCharacter/AppleProjectile_BP
+[2024.04.27-06.26.53:509][716]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/AppleProjectile_BPF596B3F9440B47F516984BACDE60E41A.tmp' to '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Content/PlayerCharacter/AppleProjectile_BP.uasset'
+[2024.04.27-06.26.53:555][716]LogSavePackage: Moving output files for package: /Game/PlayerCharacter/Animations/WarriorZDAnimationBP
+[2024.04.27-06.26.53:555][716]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Saved/WarriorZDAnimationBP66C2BB584EAF507A4B437AA16280300E.tmp' to '../../../../../Documents/Unreal Projects/Game-Development/Platformer2D/Content/PlayerCharacter/Animations/WarriorZDAnimationBP.uasset'
+[2024.04.27-06.26.53:560][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 1.95 sec)
+[2024.04.27-06.26.53:564][716]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.27-06.26.53:564][716]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level1.Level1
+[2024.04.27-06.26.53:564][716]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/Mushroom/Blueprints/Projectile_BP.Projectile_BP
+[2024.04.27-06.26.53:564][716]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PlayerCharacter/AppleProjectile_BP.AppleProjectile_BP
+[2024.04.27-06.26.53:564][716]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/PlayerCharacter/Animations/WarriorZDAnimationBP.WarriorZDAnimationBP
